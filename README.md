@@ -1,2 +1,2 @@
-# mssql-custom-db-docker
- An example of a custom release of a mssql-db on Docker
+# Install MSSQL Drivers
+https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16#version-17
